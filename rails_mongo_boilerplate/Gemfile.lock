@@ -121,6 +121,7 @@ PLATFORMS
 DEPENDENCIES
   coffee-rails (~> 3.1.1)
   jquery-rails
+  json (>= 1.7.5)
   mongo
   mongo_mapper
   rails (= 3.1.1)

@@ -8,6 +8,7 @@ gem 'rails', '3.1.1'
 gem "mongo"
 gem "mongo_mapper"
 gem 'rails3-generators'
+gem 'json', '>=1.7.5'
 
 # Gems used only for assets and not required
 # in production environments by default.
