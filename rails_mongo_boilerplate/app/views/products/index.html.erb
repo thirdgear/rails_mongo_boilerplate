@@ -1,0 +1,6 @@
+<h1>Available products</h1>
+<ul>
+<% @products.each do | product | %>
+<li><%= product.name %>, <%= product.description %></li>
+<% end %>
+</ul>
